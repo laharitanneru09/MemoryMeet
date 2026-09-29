@@ -1,0 +1,36 @@
+{
+  "client": "Northwind Logistics",
+  "our_company": "RouteIQ",
+  "meetings": [
+    {
+      "id": "nw-2026-07-14",
+      "title": "Kickoff call",
+      "date": "2026-07-14",
+      "transcript": "Sam (RouteIQ): Thanks for joining. Priya, what does success look like for Northwind?\nPriya Nair (Northwind, VP Ops): Honestly, the number one thing is the Salesforce CRM integration. My dispatchers need to see a customer's full history the moment a call comes in. Without that, we can't go live.\nDaniel Reyes (Northwind, IT Director): For me it's single sign-on with our Okta setup. Security will block us otherwise.\nMaya Chen (RouteIQ, PM): Understood. CRM integration and SSO both make sense as launch requirements.\nSam (RouteIQ): On pricing, we quoted 48,000 dollars a year for 100 seats.\nPriya Nair: That's in the ballpark. Maya, can you send us the integration roadmap?\nMaya Chen: Yes, I'll share the roadmap by July 28."
+    },
+    {
+      "id": "nw-2026-07-28",
+      "title": "Roadmap review",
+      "date": "2026-07-28",
+      "transcript": "Maya Chen (RouteIQ, PM): Here's the plan. Salesforce CRM integration lands in October, SSO in September.\nPriya Nair (Northwind, VP Ops): October works, but I want to be clear, CRM is a must-have before go-live.\nArjun Rao (RouteIQ, Engineering Lead): I'll have a CRM sandbox demo ready for you by August 25 so you can see it early.\nDaniel Reyes (Northwind, IT Director): Another concern from my side. Where will our data be stored? We have data residency rules and I haven't had an answer yet.\nSam (RouteIQ): We'll come back to you on that.\nPriya Nair: On price, if we sign for two years, can you do 42,000 a year?\nSam (RouteIQ): Let me take that back to the team."
+    },
+    {
+      "id": "nw-2026-08-11",
+      "title": "Internal product sync",
+      "date": "2026-08-11",
+      "transcript": "Maya Chen (RouteIQ, PM): Leadership decided to pull the analytics dashboard into Q4. A competitor just launched one and we're losing deals over it.\nArjun Rao (RouteIQ, Engineering): That means the Salesforce CRM integration moves to Q1 next year. We don't have the people for both.\nSam (RouteIQ): Should we tell Northwind? They were told October.\nMaya Chen: Let's hold off until the analytics beta is ready, we'll bundle the message.\nArjun Rao: Also the CRM sandbox demo I promised for August 25 will probably slip.\nMaya Chen: Fine. Analytics dashboard beta goes live in October, that's the decision."
+    },
+    {
+      "id": "nw-2026-08-25",
+      "title": "Client check-in",
+      "date": "2026-08-25",
+      "transcript": "Sam (RouteIQ): Good news, we're launching an analytics dashboard beta in October and you'll get early access.\nPriya Nair (Northwind, VP Ops): Nice, analytics is useful. As long as the CRM integration still lands this year, we're happy.\nSam (RouteIQ): We're working hard on everything.\nDaniel Reyes (Northwind, IT Director): Arjun promised a CRM sandbox demo today. Where is it?\nArjun Rao (RouteIQ, Engineering): We'll need to reschedule that one.\nDaniel Reyes: And I still have no answer on data residency.\nSam (RouteIQ): On pricing, we can offer 44,000 a year on a two-year term.\nPriya Nair: That works for us, send it in writing."
+    },
+    {
+      "id": "nw-2026-09-15",
+      "title": "Internal account review",
+      "date": "2026-09-15",
+      "transcript": "Sam (RouteIQ): Northwind opened two support tickets about SSO login failures last week.\nMaya Chen (RouteIQ, PM): Engineering says SSO fixes ship September 30. CRM integration is still Q1.\nJordan Blake (RouteIQ, Finance): Heads up, I can't approve 44,000. Our floor for a two-year deal is 46,000 a year.\nSam (RouteIQ): I already verbally offered 44,000 to Priya.\nJordan Blake: Then we have a problem. Let's sort it before the business review.\nMaya Chen: Agreed. Also we still owe Daniel the data residency answer."
+    }
+  ]
+}
