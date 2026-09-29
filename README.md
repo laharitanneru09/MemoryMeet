@@ -1,4 +1,5 @@
 # MemoryMeet
+<<<<<<< HEAD
 
 > Don't just remember what was said. Know what changed.
 
@@ -101,3 +102,6 @@ Hindsight also consolidates related facts into "observations" in the background 
 - Add a small evaluation script: list the 4 planted changes and check the agent finds them (great for the Technical Implementation score)
 - Add Google Calendar or Zoom transcript import
 - Add a feedback button (useful / not useful) and retain it, so the agent learns your briefing preferences
+=======
+AI agent that detects changes, contradictions, and unresolved commitments across meetings
+>>>>>>> 468060ed5d523cd50a9bfe6de2f1efdfb1784a3e
